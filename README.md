@@ -3,8 +3,6 @@ ojeto Wazuh Compliance - Relatório Executivo
 Data: 02 de Julho de 2025
 
 
-Autor: Manus AI
-
 
 Status: PROJETO CONCLUÍDO COM SUCESSO TOTAL
 
